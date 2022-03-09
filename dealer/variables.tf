@@ -9,4 +9,5 @@ variable "bucket" {
 
 variable "content" {    
     type = string
+    default = "Example"
 }   
